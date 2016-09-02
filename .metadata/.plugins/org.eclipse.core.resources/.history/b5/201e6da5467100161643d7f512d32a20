@@ -1,0 +1,8 @@
+package com.ideanoval.objects;
+
+public class Idea {
+
+	private int id = -1;
+	private String title = null;
+	private String descriptiopn = null;
+}
